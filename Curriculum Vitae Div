@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Curriculum Vitae</title>
+
+</head>
+
+<body>
+
+<div>
+
+<body bgcolor="pink"></body>
+
+<!-- Header -->
+
+<div>
+
+<div class="header">
+
+<h1>Adjoto-Sodiq Riskiyat Adejumoke</h1>
+
+<span id="job-title">Aspiring Molecular Biologist/Writer/Software Developer</span>
+
+</div>
+
+<!-- Contact Details
+
+<div class="contact">
+
+<p>: adjotoriskiyat@gmail.com</p>
+
+<p>: +234 913 044 7806</p>
+
+<p>: Lagos, Nigeria/Oyo, Nigeria</p>
+
+</div>
+
+<!-- Profile Summary -->
+
+<div class="profile">
+
+<h2>Profile Summary</h2>
+
+<p>I am a Biochemistry student passionate about molecular biology. research, writing and software development. I thrive in analytical roles and love solving complex problems.</p>
+
+</div>
+
+<!--Education -->
+
+<div class="education">
+
+<h2>Education</h2>
+
+<p><strong>Ifesowapo Aboru Senior Secondary School, Aboru – SSCE</strong></p>
+
+<p><strong>Ladoke Akintola University of Technology, Ogbomosho
+
+B. Tech in Biochemistry [2024-2029]</strong></p>
+
+<p><strong>TS Academy, Yaba, Lagos Certification in Software Development [2025-2026]</strong></p>
+
+</div>
+
+<!-- Work Experience -->
+
+<div class="experience">
+
+<h2>Work Experience</h2>
+
+<p><strong>Writer – Moboreader [2025-Till Date]</strong></p>
+
+<p>Writing One Ongoing Novel and has a Completed Novella</p>
+
+<p><strong>Customer Service Representative Alhaja Oni Rice [2020-2025]</strong></p>
+
+<p>Handling Customers, Delivery, and the Store in General</p>
+
+</div>
+
+<!--Skills
+
+<div class="skills">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>HTML ✅✅✅✅✅</li>
+
+<li>CSS ✅❎❎❎❎</li>
+
+<li>Python & Data Analysis✅❎❎❎❎ </li>
+
+<li>Carbohydrates, Amino Acid, DNA and RNA testing ✅✅✅❎❎</li>
+
+<li>Colony growing, smearing, and streaking ✅✅✅❎❎<>
+
+<li>Colony Testing ✅✅❎❎❎</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
