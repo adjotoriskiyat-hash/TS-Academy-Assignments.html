@@ -32,5 +32,3 @@ I pride myself on resourcefulness. The projects in this repository were coded co
 ## 📬 Contact & Connect
 * **Email:** adjotoriskiyiat@gmail.com
 * **Twitter:** [@omolsjum](https://twitter.com/omolsjum)
-# TS-Academy-Assignments.html
-Assignment Respository
